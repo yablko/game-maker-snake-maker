@@ -8,6 +8,7 @@
     {"id":{"name":"obj_snake","path":"objects/obj_snake/obj_snake.yy",},"order":0,},
     {"id":{"name":"yay","path":"sounds/yay/yay.yy",},"order":2,},
     {"id":{"name":"spr_tile","path":"sprites/spr_tile/spr_tile.yy",},"order":1,},
+    {"id":{"name":"gimmeFood","path":"scripts/gimmeFood/gimmeFood.yy",},"order":0,},
     {"id":{"name":"spr_snake","path":"sprites/spr_snake/spr_snake.yy",},"order":0,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
