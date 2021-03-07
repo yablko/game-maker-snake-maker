@@ -1,8 +1,9 @@
 {
   "resources": [
     {"id":{"name":"obj_snake","path":"objects/obj_snake/obj_snake.yy",},"order":0,},
+    {"id":{"name":"spr_tile","path":"sprites/spr_tile/spr_tile.yy",},"order":1,},
     {"id":{"name":"spr_snake","path":"sprites/spr_snake/spr_snake.yy",},"order":0,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
   "Options": [
     {"name":"macOS","path":"options/mac/options_mac.yy",},
@@ -16,7 +17,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
