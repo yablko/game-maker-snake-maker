@@ -2,8 +2,8 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function gimmeFood() {
 
-	var tiles_x = room_width / sprite_width
-	var tiles_y = room_height / sprite_height
+	tiles_x = room_width / sprite_width
+	tiles_y = room_height / sprite_height
 
 	
 	var new_x = irandom_range(0, tiles_x - 1) * sprite_width

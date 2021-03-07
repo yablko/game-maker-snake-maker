@@ -1,6 +1,17 @@
 /// @description move, controls, wrap
 // You can write your code in this editor
 
+/**
+ * GAME OVER, MAN
+ */
+if ( obj_game.game_ended ) {
+
+	speed = 0
+	can_move = false
+	exit
+
+}
+
 
 
 /**

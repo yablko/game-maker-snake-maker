@@ -1,4 +1,5 @@
 score = 0
+game_ended = false
 
 
 shake = false
@@ -8,3 +9,6 @@ shake_fade = 0.25
 
 
 audio_play_sound(vashop_cestickou, 1, true)
+
+
+randomize()

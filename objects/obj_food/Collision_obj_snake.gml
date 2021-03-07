@@ -35,3 +35,19 @@ instance_destroy()
 
 // feed me, bro
 gimmeFood()
+
+
+// are there empty tiles left?
+// if not, YOU WIN
+
+var food_count = instance_number( obj_food )
+var empty_tiles = ( tiles_x * tiles_y ) - obj_snake.snake_length - food_count
+
+if ( empty_tiles <= 1 ) {
+
+	obj_game.game_ended = true
+	
+	audio_play_sound(yay, 10, false)
+	audio_stop_sound(vashop_cestickou)
+
+}
