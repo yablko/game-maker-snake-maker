@@ -3,9 +3,11 @@
 
 speed = 0
 
-
 can_move = true
 
+snake_length = 3
+
+tail = ds_list_create()
 
 direction_right = 0
 direction_up	  = 90

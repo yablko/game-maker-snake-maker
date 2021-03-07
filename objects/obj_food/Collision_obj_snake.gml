@@ -6,6 +6,10 @@
 score++
 
 
+// big me grow bigger
+obj_snake.snake_length++
+
+
 // whee
 audio_play_sound(eat_it, 10, false)
 

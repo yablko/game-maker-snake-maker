@@ -11,8 +11,25 @@ speed = 0
 if ( can_move ) {
 
 	speed = sprite_width
+
 	can_move = false
+	
+	// grow tail
+	ds_list_add(
+		tail, instance_create_layer(x, y, "Instances", obj_tail_part)
+	)
+		
 	alarm[0] = room_speed / 15
+
+}
+
+
+// tail too long? kill oldest part
+if ( instance_number( obj_tail_part ) > snake_length ) {
+
+	var oldest_tail_part = ds_list_find_value(tail, 0)
+	instance_destroy( oldest_tail_part )
+	ds_list_delete(tail, 0)
 
 }
 

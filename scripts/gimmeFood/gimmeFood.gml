@@ -27,6 +27,12 @@ function gimmeFood() {
 
 
 	// don't spawn on tail
+	with ( obj_tail_part ) {
+		if ( new_x == x and new_y == y ) {
+			gimmeFood()
+			exit
+		}
+	}
 	
 
 	instance_create_layer(new_x, new_y, "Instances", obj_food)
