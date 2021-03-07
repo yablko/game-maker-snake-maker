@@ -27,3 +27,22 @@ with ( obj_game ) {
 
 // die
 instance_destroy()
+
+
+// create new food
+tiles_x = room_width / sprite_width
+tiles_y = room_height / sprite_height
+
+
+new_x = irandom_range(0, tiles_x - 1) * sprite_width
+new_y = irandom_range(0, tiles_y - 1 ) * sprite_height
+
+
+instance_create_layer(new_x, new_y, "Instances", obj_food)
+
+
+
+
+
+
+
