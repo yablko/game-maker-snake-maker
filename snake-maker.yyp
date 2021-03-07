@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_food","path":"sprites/spr_food/spr_food.yy",},"order":2,},
     {"id":{"name":"obj_food","path":"objects/obj_food/obj_food.yy",},"order":1,},
+    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":2,},
     {"id":{"name":"obj_snake","path":"objects/obj_snake/obj_snake.yy",},"order":0,},
     {"id":{"name":"spr_tile","path":"sprites/spr_tile/spr_tile.yy",},"order":1,},
     {"id":{"name":"spr_snake","path":"sprites/spr_snake/spr_snake.yy",},"order":0,},
