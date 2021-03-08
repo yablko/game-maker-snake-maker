@@ -7,7 +7,7 @@
 if ( obj_game.game_ended ) {
 
 	speed = 0
-	can_move = false
+	can_move = false	
 	exit
 
 }

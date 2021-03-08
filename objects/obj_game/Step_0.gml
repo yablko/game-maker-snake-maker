@@ -12,6 +12,13 @@ else if ( keyboard_check(ord("R")) ) {
 
 }
 
+if ( game_ended ) {
+	if ( keyboard_check(vk_enter) ) {
+		game_restart()
+	}
+}
+	
+
 
 if (shake) 
 { 
