@@ -2,7 +2,7 @@
 
 **Naučím ťa GameMaker Studio 2.** Nástroj (engine) na tvorbu hier, v ktorom vznikla kopa tvojich obľúbených 2D hitov. 
 Undertale, Hotline Miami, Nuclear Throne, Hyper Light Drifter... Vyrobím v ňom hru. Za hodinu aj kúsok. A počas toho ti vysvetlím základy. 
-Toľko, že v pohodičke naskočíš do game dev sveta. 
+Toľko, že v pohodičke naskočíš do game dev sveta. Pozri si aj [môj predošlý kurz](https://github.com/yablko/not-so-solid-snake/), kde spravím hru len s textovým editorom, bez enginu.
 
 Ak sa ti kurz páči, kúp mi 2-3 kávy cez PATREON ♥️ https://www.patreon.com/yablko.  
 A dostaneš ďalšie kurzy skôr. Aj v textovej podobe.  
