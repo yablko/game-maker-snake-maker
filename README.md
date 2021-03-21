@@ -10,7 +10,7 @@ A dostaneš ďalšie kurzy skôr. Aj v textovej podobe.
 ---
 
 ### Rob HRY v GameMaker Studio 2, kurz zdarma  
-:: https://youtu.be/wwFC-BRKTr4
+:: https://youtu.be/wwFC-BRKTr4 _(1h 16min 35s)_
 
 [![youtube tutorial link](play.this.vid.jpg)](https://youtu.be/wwFC-BRKTr4)
 
