@@ -16,6 +16,12 @@ A dostaneš ďalšie kurzy skôr. Aj v textovej podobe.
 
 ---
 
+Ak si učiteľ, môžeš tento kód a video používať na škole, ako len chceš. Enjoy!  
+Ak ma chceš podporiť, a nemusíš byť učiteľ, **hoď po mne groš cez ♥️ [patreon](https://www.patreon.com/yablko)**.  
+Sľubujem, že to možno nie je kult a patróni majú moje videá a kurzy skôr. A môžu mi kydať do vecí. A dávam im tipy, rady, odporúčania, backstage veci a spomínal som, že to možno nie je kult? 
+
+---
+
 Tailwind CSS  
 https://tailwindcss.com  
 https://tailwindcss.com/docs
