@@ -40,7 +40,7 @@ https://www.youtube.com/playlist?list=PLhIbBGhnxj5JcbfoxS_CWTnImRL_wB_Wg
   
 Zvuky a hudba (vyrob si vlastné)  
 https://bfxr.net  
-https://boscaceoil.net 
+https://boscaceoil.net  
 https://www.beepbox.co  
   
 Screenshake a "Game Feel" videá  
