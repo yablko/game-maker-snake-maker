@@ -14,6 +14,9 @@ A dostaneš ďalšie kurzy skôr. Aj v textovej podobe.
 
 [![youtube tutorial link](play.this.vid.jpg)](https://youtu.be/wwFC-BRKTr4)
 
+🎧 A VŠETCI POVINNE vypočuť tento BANGER  
+:: https://soundcloud.com/vasho-p/vasho-p-ak-nie-si-moja-2
+
 ---
 
 Ak si učiteľ, môžeš tento kód a video používať na škole, ako len chceš. Enjoy!  
@@ -22,51 +25,31 @@ Sľubujem, že to možno nie je kult a patróni majú moje videá a kurzy skôr.
 
 ---
 
-Tailwind CSS  
-https://tailwindcss.com  
-https://tailwindcss.com/docs
+GameMaker Studio  
+https://www.yoyogames.com  
+https://www.yoyogames.com/gamemaker  
   
-Tailwind PLAYGROUND  
-https://play.tailwindcss.com  
+What Are Sprites And How They Work In Games?   
+https://gamingshift.com/sprites-in-games  
 
-VSCode Tailwind CSS IntelliSense  
-https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss  
-
-VSCode LIVE SERVER  
-https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer  
-
-Tailwind YOUTUBE KANAL  
-https://www.youtube.com/channel/UCOe-8z68tgw9ioqVvYM4ddQ  
-
-Adam Wathan - Tailwind CSS Best Practice Patterns  
-https://www.youtube.com/watch?v=J_7_mnFSLDg  
-
-The Net Ninja TAILWIND CSS tutorial  
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw  
-
-CSS SCROLL SNAPPING  
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap/Basic_concepts  
-https://css-tricks.com/practical-css-scroll-snapping/  
+Vasho P - Ak nie si moja (EGA Ultrapop Mix)  
+https://soundcloud.com/vasho-p/vasho-p-ak-nie-si-moja-2  
   
-SVG  
-https://tailwindcss.com/course/working-with-svg-icons#app  
-https://jakearchibald.github.io/svgomg  
-http://svgicons.sparkk.fr  
-https://freesvg.org  
-
-PLAYGROUNDY (co som navyrabal)  
-https://play.tailwindcss.com/BQ1ft9kHSu  
-https://play.tailwindcss.com/eGUrllgiE8  
-https://play.tailwindcss.com/pjmPULml8Y  
-
-UNSPLASH (free fotky)  
-https://unsplash.com  
-
-How to draw an Akita dog  
-https://www.youtube.com/watch?v=9qfmxWbklQM  
-
-Game Maker's Toolkit - Designing for Disability  
-https://www.youtube.com/playlist?list=PLc38fcMFcV_vvWOhMDriBlVocTZ8mKQzR  
+Space Rocks - Full Series (GML)  
+https://www.youtube.com/playlist?list=PLhIbBGhnxj5JcbfoxS_CWTnImRL_wB_Wg  
+  
+Zvuky a hudba (vyrob si vlastné)  
+https://bfxr.net  
+https://boscaceoil.net 
+https://www.beepbox.co  
+  
+Screenshake a "Game Feel" videá  
+https://www.youtube.com/watch?v=AJdEqssNZ-U  
+https://www.youtube.com/watch?v=216_5nu4aVQ  
+https://www.youtube.com/watch?v=Fy0aCDmgnxg  
+    
+Juicy Screenshake (GML)  
+https://www.yoyogames.com/blog/586/coffee-break-tutorials-juicy-screenshake-gml  
 
 ---
 
