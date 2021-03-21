@@ -20,7 +20,7 @@ A dostaneš ďalšie kurzy skôr. Aj v textovej podobe.
 ---
 
 Ak si učiteľ, môžeš tento kód a video používať na škole, ako len chceš. Enjoy!  
-Ak ma chceš podporiť, a nemusíš byť učiteľ, **hoď po mne groš cez ♥️ [patreon](https://www.patreon.com/yablko)**.  
+Ak ma chceš podporiť, a nemusíš byť učiteľ, **kúp mi 2-3 kávy cez ♥️ [patreon](https://www.patreon.com/yablko)**.  
 Sľubujem, že to možno nie je kult a patróni majú moje videá a kurzy skôr. A môžu mi kydať do vecí. A dávam im tipy, rady, odporúčania, backstage veci a spomínal som, že to možno nie je kult? 
 
 ---
@@ -50,6 +50,34 @@ https://www.youtube.com/watch?v=Fy0aCDmgnxg
     
 Juicy Screenshake (GML)  
 https://www.yoyogames.com/blog/586/coffee-break-tutorials-juicy-screenshake-gml  
+
+---
+
+### Chceš sa zlepšiť?  
+
+Chyť môj kód a vylepši ho. Pár nápadov:
+  
+**a) OVLÁDANIE**
+  
+Pridaj WASD a ovládanie ovládačom.  
+Zmeň direction na enum? Ak chceš.  
+  
+**b) SCREENS**  
+  
+Pridaj welcome screen, game over screen, win screen.    
+Môžeš na ne použiť rooms a prepínať sa medzi nimi.  
+  
+**c) POSTUPNÁ OBTIAŽNOSŤ**  
+  
+Hra začne pomalšia. Čím väčšie score, tým rýchlejšie beží.  
+Zahraj sa na game designéra a nájdi správnu obtiažnosť.  
+  
+**d) PARTICLES**  
+  
+Keď zješ jedlo, vyletia particles.  
+Na pozícii hada vzniknú hviezdičky / drobné čiastočky.  
+Náhodné množstvo a vyletia náhodným smerom.  
+Postupne zmiznú. 
 
 ---
 
