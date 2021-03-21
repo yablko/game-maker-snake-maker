@@ -1,4 +1,4 @@
-# Sprav HRU za HODINU v GameMaker Studio 2 (naučím ťa)
+# Sprav HRU za HODINU v GameMaker Studio 2 (kurz)
 
 **Naučím ťa GameMaker Studio 2.** Nástroj (engine) na tvorbu hier, v ktorom vznikla kopa tvojich obľúbených 2D hitov. 
 Undertale, Hotline Miami, Nuclear Throne, Hyper Light Drifter... Vyrobím v ňom hru. Za hodinu aj kúsok. A počas toho ti vysvetlím základy. 
